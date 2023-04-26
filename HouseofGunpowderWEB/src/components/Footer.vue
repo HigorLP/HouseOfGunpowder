@@ -16,7 +16,7 @@
                 <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="#" target="_blank" rel="noopener" class="nav-link">Documentação</a>
+                            <a href="https://github.com/HigorLP/HouseOfGunpowder" target="_blank" rel="noopener" class="nav-link">Documentação</a>
                         </li>
                     </ul>
                 </div>
